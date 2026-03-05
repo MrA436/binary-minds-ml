@@ -18,6 +18,7 @@ Class Labels:
 
 ## Project Structure
 
+```
 binary-minds-ml/
 │
 ├── data/
@@ -25,12 +26,14 @@ binary-minds-ml/
 │   └── TEST.csv
 │
 ├── src/
-│   ├── predict.py
-│   └── train.py
+│   ├── train.py
+│   └── predict.py
 │
 ├── main.py
+├── FINAL.csv
 ├── README.md
 └── .gitignore
+```
 
 ## How to Run
 
